@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cfg",
+    "\\instance",
+    "\\lib",
+    "\\lib\\MiddleLayer",
+    "\\lib\\models",
+    "\\lib\\Routes",
+    "\\lib\\Service"
+  ],
+  "SelectedNode": "\\lib\\models\\profile.py",
+  "PreviewInSolutionExplorer": false
+}
