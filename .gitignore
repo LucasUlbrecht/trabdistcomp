@@ -1,2 +1,10 @@
 .venv
 .idea
+.vs/slnx.sqlite
+.vs/compdistapp/FileContentIndex/4b0a1c1b-68b1-453d-b03f-28ceef007a8a.vsidx
+.vs/compdistapp/FileContentIndex/69bafdd7-cbc0-45d5-ae45-302a7b189149.vsidx
+.vs/compdistapp/FileContentIndex/abcaadbf-8932-4817-9cff-f104cb91a323.vsidx
+.vs/compdistapp/FileContentIndex/cc7eb1bb-7b9f-4212-9abe-90e43647f68a.vsidx
+.vs/compdistapp/FileContentIndex/d858fbad-aa7f-47c8-8c09-67b091743e3f.vsidx
+data/
+.vs/*
